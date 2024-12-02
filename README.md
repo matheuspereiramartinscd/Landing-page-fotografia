@@ -1,6 +1,6 @@
 Site de fotografia
 
-Link: https://matheuspereiramartinscd.github.io/Site-de-fotografia/
+Link: https://matheuspereiramartinscd.github.io/Landing-page-fotografia/
 
 ![Screenshot_2](https://github.com/matheuspereiramartinscd/Site-de-fotografia/assets/136721687/d669a9ca-3265-4736-9c36-a370137848ca)
 
