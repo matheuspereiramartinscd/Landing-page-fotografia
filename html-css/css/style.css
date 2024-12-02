@@ -1,0 +1,432 @@
+
+@media screen and (min-width:1480px){
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+body{
+    background-color: #FAD8CD;
+    
+    
+}
+
+button:hover{
+    position: relative;
+    bottom:1px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+button{ 
+
+    background-color: FAF8F0;
+    font-size:12px;
+    width: 150px;
+    height: 50px;
+    margin:40px;
+    border-radius: 70px;
+    border-width: 0.3px;
+    
+   
+}
+
+.container{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    width: 50%;
+    min-width: 420px;
+    background-color: white;
+    margin:0 auto;
+    font-family: 'Roboto Condensed';
+    
+   
+}
+
+.container02{
+   
+    
+    
+    display: flex;
+    
+}
+
+.page{
+   background-color: white;
+    height: 100%;
+    text-align: center;
+    max-width:50%;     
+}
+
+.firstpagetext {
+ 
+ 
+
+    margin-top:79%;
+}
+
+.title {
+  
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.subtitle {
+    color: grey;
+    padding:2px;
+    font-size: 25px;
+
+}
+
+.homephotoimg{
+   
+    max-height: 100%;
+    max-width: 100%;
+    
+
+}
+
+.mywork{
+    
+    background-color: rgb(38, 36, 36);
+    text-align: center;
+    padding:30px;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+
+.photodescription{
+    color: grey;
+    padding:27px;
+    text-align: center;
+    background-color: F9F7F0;
+}
+
+span{
+    font-size: 20px;
+}
+
+h1{
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 23px;
+}
+
+
+.contact{
+    padding-top:100px;
+    margin-bottom: 50px;
+
+    text-align: center;
+}
+
+.touch{
+    color: rgb(84, 83, 83);
+    font-size:50px;
+    padding-bottom:35px;
+}
+
+.call{
+    color: rgb(84, 83, 83);
+    font-size: 17px;
+    padding:10px;
+}
+
+.email{
+    color: rgb(84, 83, 83);
+    font-size: 17px;
+    padding:10px;
+}
+.phone{
+    color: rgb(84, 83, 83);
+    font-size: 17px;
+    padding:10px;
+}
+
+.box02{
+    width:239px;
+    height:159px;
+    background-color: aquamarine;
+}
+.photo{
+  width: 100%;
+}
+
+.photo01{
+    width: 100%;
+  }
+
+  b{
+    font-weight: bold;
+  }
+
+  .red{
+    color: red;
+    font-weight: bold;
+  }
+
+}
+
+@media screen and (max-width:1479px){
+
+    html, body, div, span, applet, object, iframe,
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    a, abbr, acronym, address, big, cite, code,
+    del, dfn, em, img, ins, kbd, q, s, samp,
+    small, strike, strong, sub, sup, tt, var,
+    b, u, i, center,
+    dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend,
+    table, caption, tbody, tfoot, thead, tr, th, td,
+    article, aside, canvas, details, embed, 
+    figure, figcaption, footer, header, hgroup, 
+    menu, nav, output, ruby, section, summary,
+    time, mark, audio, video {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+    }
+    /* HTML5 display-role reset for older browsers */
+    article, aside, details, figcaption, figure, 
+    footer, header, hgroup, menu, nav, section {
+        display: block;
+    }
+    body {
+        line-height: 1;
+    }
+    ol, ul {
+        list-style: none;
+    }
+    blockquote, q {
+        quotes: none;
+    }
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+        content: '';
+        content: none;
+    }
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+    
+    
+    body{
+        background-color: #FAD8CD;
+        
+        
+    }
+    
+    button:hover{
+        position: relative;
+        bottom:1px;
+        box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    }
+    
+    button{ 
+    
+        background-color: FAF8F0;
+        font-size:12px;
+        width: 120px;
+        height: 50px;
+        margin:40px;
+        border-radius: 70px;
+        border-width: 0.3px;
+        
+       
+    }
+    
+    .container{
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+        width: 50%;
+        min-width: 450px;
+        background-color: white;
+        margin:0 auto;
+        font-family: 'Roboto Condensed';
+        
+       
+    }
+    
+    .container02{
+       
+        
+        
+        display: flex;
+        
+    }
+    
+    .page{
+       background-color: white;
+        height: 100%;
+        text-align: center;
+        max-width:50%;     
+    }
+    
+    .firstpagetext {
+     
+     
+    
+        margin-top:79%;
+    }
+    
+    .title {
+      
+        font-size: 25px;
+        font-weight: 500;
+    }
+    
+    .subtitle {
+        color: grey;
+        padding:2px;
+        font-size:12,5px;
+    
+    }
+    
+    .homephotoimg{
+       
+        max-height: 100%;
+        max-width: 100%;
+        
+    
+    }
+    
+    .mywork{
+        
+        background-color: rgb(38, 36, 36);
+        text-align: center;
+        padding:30px;
+        font-size: 20px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: white;
+    }
+    
+
+    
+    .photodescription{
+        color: grey;
+        padding:27px;
+        text-align: center;
+        background-color: F9F7F0;
+    }
+    
+    span{
+        font-size: 20px;
+    }
+    
+    h1{
+        color: black;
+        font-weight: bold;
+        font-size: 25px;
+        padding-bottom: 23px;
+    }
+    
+    
+    .contact{
+        padding-top:100px;
+        margin-bottom: 50px;
+    
+        text-align: center;
+    }
+    
+    .touch{
+        color: rgb(84, 83, 83);
+        font-size:50px;
+        padding-bottom:35px;
+    }
+    
+    .call{
+        color: rgb(84, 83, 83);
+        font-size: 17px;
+        padding:10px;
+    }
+    
+    .email{
+        color: rgb(84, 83, 83);
+        font-size: 17px;
+        padding:10px;
+    }
+    .phone{
+        color: rgb(84, 83, 83);
+        font-size: 17px;
+        padding:10px;
+    }
+    
+    .box02{
+        width:239px;
+        height:159px;
+        background-color: aquamarine;
+    }
+    .photo{
+      width: 100%;
+    }
+    
+    .photo01{
+        width: 100%;
+      }
+    
+      b{
+        font-weight: bold;
+      }
+    
+      .red{
+        color: red;
+        font-weight: bold;
+      }
+    
+    }
+
+.copyright{
+    float:right;
+    
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    font-size: 18px;
+}
